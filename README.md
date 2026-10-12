@@ -1,1 +1,2 @@
 # odin-landing-page
+This project is there to show my newly acquired skills in CSS and especially flexbox. By recreating a page desing from an image I will get some exercise and intuition into writing HTML and CSS for myself
